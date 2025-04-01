@@ -1,17 +1,17 @@
 # 😀Hello! Welcome to my Github profile.
 ## My name Leônidas and my nickname is leoLUIGY
 
-### 🧑‍🎓Graduated in Digital Games from FATEC Carapicuíba, with a focus on programming, development logic, and software engineering. 
+#### 🧑‍🎓Graduated in Digital Games from FATEC Carapicuíba, with a focus on programming, development logic, and software engineering. 
 
-### 💻I have experience in developing interactive applications in Unity (C#), including projects in Virtual Reality (VR) and Augmented Reality (AR).
+#### 💻I have experience in developing interactive applications in Unity (C#), including projects in Virtual Reality (VR) and Augmented Reality (AR).
 
-### 🔎Currently, I am expanding my knowledge in web development (JavaScript) and Java, aiming to combine technology and innovation to create efficient solutions.
+#### 🔎Currently, I am expanding my knowledge in web development (JavaScript) and Java, aiming to combine technology and innovation to create efficient solutions.
 
 ## Skills
 
 <div style="display:flex;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-right: 20px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"style="margin-right: 20px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
