@@ -7,6 +7,13 @@
 
 ### 🔎Currently, I am expanding my knowledge in web development (JavaScript) and Java, aiming to combine technology and innovation to create efficient solutions.
 
+
+## Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+          
+
 <!--
 **leoLUIGY/leoLUIGY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
