@@ -5,11 +5,13 @@
 
 #### 💻I have experience in developing interactive applications in Unity (C#), including projects in Virtual Reality (VR) and Augmented Reality (AR).
 
-#### 🔎Currently, I am expanding my knowledge in web development (JavaScript) and Java, aiming to combine technology and innovation to create efficient solutions.
+#### 🔎Currently, I am expanding my knowledge in web development with PHP, focusing on frameworks like CodeIgniter and containerized environments using Docker, aiming to combine technology and innovation to create efficient and scalable solutions.
 
 ## Skills
 
 <div style="display:flex;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" width="40" height="40"/>
