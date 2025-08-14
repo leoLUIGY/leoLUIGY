@@ -5,7 +5,7 @@
 
 #### 💻I have experience in developing interactive applications in Unity (C#), including projects in Virtual Reality (VR) and Augmented Reality (AR).
 
-#### 🔎Currently, I am expanding my knowledge in web development with PHP, focusing on frameworks like CodeIgniter and containerized environments using Docker, aiming to combine technology and innovation to create efficient and scalable solutions.
+#### 🔎Currently, I am expanding my knowledge in web development with PHP, currently expanding my work to back-end development with .NET and PHP, working with ASP.NET Core, Entity Framework, Web APIs, Laravel and Docker..
 
 ## Skills
 
