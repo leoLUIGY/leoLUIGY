@@ -1,11 +1,9 @@
 # 😀Hello! Welcome to my Github profile.
-## My name Leônidas and my nickname is leoLUIGY
-
-#### 🧑‍🎓Graduated in Digital Games from FATEC Carapicuíba, with a focus on programming, development logic, and software engineering. 
-
-#### 💻I have experience in developing interactive applications in Unity (C#), including projects in Virtual Reality (VR) and Augmented Reality (AR).
-
-#### 🔎Currently, I am expanding my work to back-end development with .NET, working with ASP.NET Core, Entity Framework, Web APIs and Docker..
+🎯 Junior Backend Developer focused on .NET, C#, ASP.NET Core, SQL, Entity Framework, REST APIs, and Docker.
+💻 Experience with Unity (C#) in VR/AR projects, applying OOP, SOLID, Clean Code, and Design Patterns.
+🌐 Hands-on with JavaScript, React, and API integration.
+🚀 Transitioning to Back-end development, consolidating software architecture and best practices.
+⚡ Main strength: fast learner who applies knowledge to deliver real value.
 
 ## Skills
 
