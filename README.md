@@ -1,9 +1,9 @@
 # 😀Hello! Welcome to my Github profile.
-🎯 Junior Backend Developer focused on .NET, C#, ASP.NET Core, SQL, Entity Framework, REST APIs, and Docker.
-💻 Experience with Unity (C#) in VR/AR projects, applying OOP, SOLID, Clean Code, and Design Patterns.
-🌐 Hands-on with JavaScript, React, and API integration.
-🚀 Transitioning to Back-end development, consolidating software architecture and best practices.
-⚡ Main strength: fast learner who applies knowledge to deliver real value.
+🎯 **Junior Backend Developer** focused on **.NET, C#, ASP.NET Core, SQL, Entity Framework, REST APIs, and Docker**.  
+💻 Experience with **Unity (C#)** in **VR/AR projects**, applying **OOP, SOLID, Clean Code**, and **Design Patterns**.  
+🌐 Hands-on with **JavaScript, React**, and **API integration**.  
+🚀 Transitioning to **Back-end development**, consolidating **software architecture** and best practices.  
+⚡ Main strength: **fast learner** who applies knowledge to deliver real value.
 
 ## Skills
 
